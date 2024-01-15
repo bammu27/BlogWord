@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on BlogHunt</title>
+    <link>https://bammu27.github.io/BlogWord/tags/</link>
+    <description>Recent content in Tags on BlogHunt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2024 13:11:20 +0530</lastBuildDate>
+    <atom:link href="https://bammu27.github.io/BlogWord/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer</title>
+      <link>https://bammu27.github.io/BlogWord/tags/computer/</link>
+      <pubDate>Mon, 15 Jan 2024 13:11:20 +0530</pubDate>
+      <guid>https://bammu27.github.io/BlogWord/tags/computer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physics</title>
+      <link>https://bammu27.github.io/BlogWord/tags/physics/</link>
+      <pubDate>Mon, 15 Jan 2024 13:11:20 +0530</pubDate>
+      <guid>https://bammu27.github.io/BlogWord/tags/physics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>https://bammu27.github.io/BlogWord/tags/ai/</link>
+      <pubDate>Sun, 14 Jan 2024 11:18:16 +0530</pubDate>
+      <guid>https://bammu27.github.io/BlogWord/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ML</title>
+      <link>https://bammu27.github.io/BlogWord/tags/ml/</link>
+      <pubDate>Sun, 14 Jan 2024 11:18:16 +0530</pubDate>
+      <guid>https://bammu27.github.io/BlogWord/tags/ml/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
