@@ -1,4 +1,4 @@
-baseURL = ""  
+baseURL = "https://bammu27.github.io/BlogWord/"  
 languageCode = "en-us"
 title = "BlogHunt"
 theme = "PaperMod"
