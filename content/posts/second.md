@@ -1,9 +1,8 @@
 +++
-title = 'Quantum Computing: Unveiling the Power of Quantum Bits'
-date = 2024-01-15T09:45:00-08:00
+title = 'Quantum Computing'
+date = 2024-01-15T13:11:20+05:30
 draft = false
 +++
-
 Title: Quantum Computing: Unveiling the Power of Quantum Bits
 
 Introduction:
