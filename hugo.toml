@@ -3,15 +3,25 @@ languageCode = "en-us"
 title = "BlogHunt"
 theme = "PaperMod"
 
+[params]
+    ShowBreadCrumbs = true
+    ShowReadingTime = true
+    ShowPostNavLinks = true
+
+    [params.homeInfoParams]
+    Title = "Ideas Innovations Inspiration"
+    Content = "Embark on a journey through the limitless realms of knowledge and innovation with our blog. From the latest tech trends to fascinating discoveries, join us for inspirational ideas and educational content that enhances your understanding of the world. Navigate the ever-expanding landscape of possibilities with each click, making your exploration both simple and positively enriching."
+
+
 
 [[menu.main]]
-name = "Home"
-url = "/"
+name = "Categories"
+url = "/categories/"
 weight = 1
 
 [[menu.main]]
-name = "About"
-url = "/about/"
+name = "tags"
+url = "/tags/"
 weight = 2
 
 [[menu.main]]

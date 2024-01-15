@@ -2,6 +2,8 @@
 title = 'Neural Network'
 date = 2024-01-14T11:18:16+05:30
 draft = false
+tags = ['AI','ML']
+categories =['Technology','Futurestic']
 +++
 
 Title: Unraveling the Wonders of Neural Networks: A Journey into the World of Artificial Intelligence
@@ -62,3 +64,6 @@ Neural networks, the backbone of artificial intelligence, have revolutionized th
 
 ## Conclusion:
 As we conclude our exploration into the world of neural networks, it's evident that these intelligent systems are driving unprecedented advancements in technology. From deciphering images to understanding human emotions, neural networks are at the forefront of AI innovation, shaping a future where machines and humans collaborate seamlessly. As we continue to push the boundaries of what's possible, the journey into the depths of neural networks is far from over – it's an ever-evolving saga that promises even more remarkable discoveries and applications in the years to come.
+
+
+
