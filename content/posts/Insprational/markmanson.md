@@ -8,10 +8,7 @@ categories = ["Selfhelp"]
 
 **Title: Embracing the Negativity: A Fresh Perspective on Self-Help**
 
-**A more interesting question, a question that most people never consider, is, 'What pain do you want in your life?' What are you willing to struggle for? Because that seems to be a greater determinant of how our lives turn out**
-
-
-
+>A more interesting question, a question that most people never consider, is, 'What pain do you want in your life?' What are you willing to struggle for? Because that seems to be a greater determinant of how our lives turn out
 
 
 
