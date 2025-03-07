@@ -1,5 +1,5 @@
 +++
-title = 'Belie In yourself'
+title = 'Believe in Yourself'
 date = 2024-08-31T14:20:16+05:30
 draft = false
 tags = ["Books", "SelfImprovement"]
